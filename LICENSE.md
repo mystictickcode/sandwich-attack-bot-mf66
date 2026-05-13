@@ -1,4 +1,4 @@
-# 
+# high-frequency Scanner for sandwich attack bot | honeypot-detection & stop-loss is the best sandwich attack bot, featuring honeypot-detection and stop-loss. Fast, smart, and
 
 
 
